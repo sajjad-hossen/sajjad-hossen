@@ -68,6 +68,8 @@
 | [✉️ SMTPEmailServiceMVC](https://github.com/sajjad-hossen/SMTPEmailServiceMVC) | Send email over SMTP with SSL, attachments and BCC, using a reusable class library | ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=flat-square) |
 | [🍽️ meal-calculation](https://github.com/sajjad-hossen/meal-calculation) | Meal cost calculator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square) |
 | [🌐 portfolio-sajjad](https://github.com/sajjad-hossen/portfolio-sajjad) | Personal portfolio website | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black) |
+| 📈 dev-tracker ![Private](https://img.shields.io/badge/-Private-lightgrey?style=flat-square) | Developer progress tracker | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black) |
+| ✈️ Travel ![Private](https://img.shields.io/badge/-Private-lightgrey?style=flat-square) | Travel application | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square) |
 
 > 💡 Competitive programming solutions: [CSES](https://github.com/sajjad-hossen/CSES) · [DSA](https://github.com/sajjad-hossen/DSA) · [Graph](https://github.com/sajjad-hossen/Graph) · [Bitmasks-Problems](https://github.com/sajjad-hossen/Bitmasks-Problems)
 
